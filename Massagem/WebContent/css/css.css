@@ -1,0 +1,61 @@
+.opcoes
+{
+	width: 200px;
+	position: absolute;
+}
+/*Usado pela tela de cancelamento*/
+
+.botaoCancelamento
+{
+	border-style: solid;
+	text-align: -moz-left;
+	font-family:Arial,sans-serif;
+}
+
+.botaoMasso
+{
+	width: 215px;
+	margin-left:50px; 
+	height: 48px;
+}
+/*Usado pela tela de cancelamento*/
+
+.ckbManha
+{
+	margin-left: 10px !important;
+}
+
+.ckbTarde
+{
+	margin-left: 50px !important;
+}
+
+select
+{
+	background-color: #eee;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	height: 38px;
+	width: 200px;
+}
+
+.saudacaoMenu
+{
+	margin-top: -20px;
+	float: right;
+	width: auto;
+	color: #8aa5bd;
+	margin-right: 75px;
+}
+
+.logo
+{
+	margin-left: -8px;
+	margin-top: 6px;
+}
+
+body
+{
+	background-image: url(../imagem/bg.png);
+	background-size: cover; 
+}
